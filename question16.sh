@@ -1,2 +1,1 @@
-git merge branch3
-git branch -d branch3
+git merge branch3 && git branch -d branch3

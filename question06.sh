@@ -1,2 +1,1 @@
-git add *
-git commit -m "commit all files"
+git add -A && git commit -m "Commit message"
